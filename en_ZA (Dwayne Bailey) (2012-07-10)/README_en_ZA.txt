@@ -18,7 +18,7 @@ This spellchecker is Free Software:
 
 See section 4. Contributing to see how you can help make it even better.
 
-
+Pdf
 Why Free Software?
 ------------------
 
